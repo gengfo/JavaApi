@@ -1,0 +1,8 @@
+Dec 3, 2012 10:18:05 PM com.gengfo.JavaLoggerTest writeLog
+SEVERE: Info Log
+Dec 3, 2012 10:18:06 PM com.gengfo.JavaLoggerTest writeLog
+SEVERE: Info Log
+Dec 3, 2012 10:18:06 PM com.gengfo.JavaLoggerTest writeLog
+WARNING: Info Log
+Dec 3, 2012 10:18:06 PM com.gengfo.JavaLoggerTest writeLog
+INFO: Info Log
