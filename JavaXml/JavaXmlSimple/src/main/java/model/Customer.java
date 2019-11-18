@@ -41,11 +41,11 @@ public class Customer {
 		this.address = address;
 	}
 
-	public List getPhoneNumbers() {
+	public List<PhoneNumber> getPhoneNumbers() {
 		return phoneNumbers;
 	}
 
-	public void setPhoneNumbers(List phoneNumbers) {
+	public void setPhoneNumbers(List<PhoneNumber> phoneNumbers) {
 		this.phoneNumbers = phoneNumbers;
 	}
 
